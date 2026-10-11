@@ -1,4 +1,3 @@
-# C# Programming — Class 03
 ## Relational Operators and Conditional Statements
 
 ---
